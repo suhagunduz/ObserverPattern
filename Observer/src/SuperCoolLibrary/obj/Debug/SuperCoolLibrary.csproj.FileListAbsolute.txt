@@ -1,0 +1,11 @@
+C:\Users\skiras\Desktop\Observer\src\SuperCoolLibrary\bin\Debug\SuperCoolLibrary.dll
+C:\Users\skiras\Desktop\Observer\src\SuperCoolLibrary\bin\Debug\SuperCoolLibrary.pdb
+C:\Users\skiras\Desktop\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.csprojAssemblyReference.cache
+C:\Users\skiras\Desktop\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\skiras\Desktop\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.dll
+C:\Users\skiras\Desktop\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\SuperCoolLibrary\bin\Debug\SuperCoolLibrary.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\SuperCoolLibrary\bin\Debug\SuperCoolLibrary.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.pdb

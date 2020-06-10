@@ -1,0 +1,19 @@
+C:\Users\skiras\Desktop\Observer\src\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\skiras\Desktop\Observer\src\MyApp\bin\Debug\MyApp.exe
+C:\Users\skiras\Desktop\Observer\src\MyApp\bin\Debug\MyApp.pdb
+C:\Users\skiras\Desktop\Observer\src\MyApp\bin\Debug\SuperCoolLibrary.dll
+C:\Users\skiras\Desktop\Observer\src\MyApp\bin\Debug\SuperCoolLibrary.pdb
+C:\Users\skiras\Desktop\Observer\src\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+C:\Users\skiras\Desktop\Observer\src\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\skiras\Desktop\Observer\src\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\Users\skiras\Desktop\Observer\src\MyApp\obj\Debug\MyApp.exe
+C:\Users\skiras\Desktop\Observer\src\MyApp\obj\Debug\MyApp.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\bin\Debug\MyApp.exe
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\bin\Debug\MyApp.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\bin\Debug\SuperCoolLibrary.dll
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\bin\Debug\SuperCoolLibrary.pdb
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\obj\Debug\MyApp.exe
+C:\Users\suhagunduz\Documents\Yazılım Müh Ders Notları\2. dönem\Yazılım Mimarisi ve Tasarımı - Mansur Alp Toçoğlu -YZM2118\FinalOdevi\Observer\src\MyApp\obj\Debug\MyApp.pdb
